@@ -8,13 +8,13 @@ $ mvn - - settings maven-settings.xml help:effective-pom
 -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>nl.fwg.logic</groupId>
-  <artifactId>fwg.logic</artifactId>
-  <packaging>pom</packaging>
-  <version>1.19.0</version>
-  <name>fwg-logic</name>
-  <url>http://fwg-online.profict.nl/sites/fwg/${project.version}</url>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>nl.fwg.logic</groupId>
+    <artifactId>fwg.logic</artifactId>
+    <packaging>pom</packaging>
+    <version>1.19.0</version>
+    <name>fwg-logic</name>
+    <url>http://fwg-online.profict.nl/sites/fwg/${project.version}</url>
 
 
     <properties>

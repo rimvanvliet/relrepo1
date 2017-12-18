@@ -1,7 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-        "version": "1.18.0",
+        "version": "1.19.0",
         "title": "Uninu Regieplatform CRM Microservice",
         "description": "This Service will act as an intermediate between Microsoft Dynamix and the microservices. It registers and forwards the events it receives from CRM as well as send messages to CRM."
     },

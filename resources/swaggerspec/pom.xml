@@ -12,11 +12,7 @@ $ mvn - - settings maven-settings.xml help:effective-pom
     <groupId>nl.fwg.logic</groupId>
     <artifactId>fwg.logic</artifactId>
     <packaging>pom</packaging>
-<<<<<<< HEAD
-    <version>1.18.0</version>
-=======
     <version>1.19.0</version>
->>>>>>> develop
     <name>fwg-logic</name>
     <url>http://fwg-online.profict.nl/sites/fwg/${project.version}</url>
 

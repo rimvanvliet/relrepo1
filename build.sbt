@@ -1,6 +1,6 @@
 name := "CRMService"
 
-version := "1.21.0-SNAPSHOT"
+version := "1.21.0"
 
 scalaVersion := "2.11.12"
 

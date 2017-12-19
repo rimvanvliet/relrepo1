@@ -1,0 +1,4 @@
+build.sbt
+resources/swaggerspec/swagger.json
+resources/swaggerspec/swagger.yaml
+resources/swaggerspec/pom.xml

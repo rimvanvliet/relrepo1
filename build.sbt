@@ -1,6 +1,6 @@
 name := "RelRepo1"
 
-version := "1.25.0"
+version := "1.26.0-SNAPSHOT"
 
 scalaVersion := "2.11.12"
 

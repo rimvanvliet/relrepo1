@@ -1,4 +1,4 @@
-name := "CRMService"
+name := "RelRepo1"
 
 version := "1.26.0-SNAPSHOT"
 
